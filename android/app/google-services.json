@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "700975403679",
+    "firebase_url": "https://aplikasiimk-d675c-default-rtdb.firebaseio.com",
+    "project_id": "aplikasiimk-d675c",
+    "storage_bucket": "aplikasiimk-d675c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:700975403679:android:ca71cb7bf5c97996b448aa",
+        "android_client_info": {
+          "package_name": "com.example.aplikasispeechtotext"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiYVYaEzFkRcl3EL7EGUd0C_IPUjZss_k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
